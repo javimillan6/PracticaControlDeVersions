@@ -27,4 +27,8 @@ class Clase1 {
     function metode3(){
      
     }
+    
+    function fantasma(){
+     
+    }
 }
