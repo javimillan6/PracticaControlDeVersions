@@ -23,4 +23,8 @@ class Clase1 {
     function metode2(){
      
     }
+    
+    function metode3(){
+     
+    }
 }
