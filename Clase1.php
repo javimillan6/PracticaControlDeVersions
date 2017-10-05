@@ -29,6 +29,6 @@ class Clase1 {
     }
     
     function fantasma(){
-        print "Hola estic modificant el codi";
+        
     }
 }
