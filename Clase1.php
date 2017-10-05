@@ -29,6 +29,6 @@ class Clase1 {
     }
     
     function fantasma(){
-        print "Hola això es una prova";
+        print "Hola estic modificant el codi";
     }
 }
